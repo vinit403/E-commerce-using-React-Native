@@ -43,7 +43,7 @@ const Cart = ({navigation}) => {
                         <>
                             <View style={{ margin: 5, flexDirection: "row", width: "97.5%", elevation: 4, backgroundColor: "white", borderRadius: 5 }}>
                                 <View style={{ padding: 4 }}>
-                                    <Image source={{ uri: "http://192.168.205.193/demo/ecommerce/Brand%20Image/" + item.image  }} style={{ height: 110, width: 120, borderRadius: 5 }} />
+                                    <Image source={{ uri: "http://192.168.158.193/demo/ecommerce/Brand%20Image/" + item.image  }} style={{ height: 110, width: 120, borderRadius: 5 }} />
                                 </View>
                                 <View style={{ width: "62%", margin: 5, justifyContent: "space-between", marginLeft: 10 }}>
                                     {/* First Line  */}
@@ -80,7 +80,7 @@ const Cart = ({navigation}) => {
                                     {/* Third line */}
                                    
                                 </View>
-                            </View>
+                            </View> 
                         </>
                     )
                 }}

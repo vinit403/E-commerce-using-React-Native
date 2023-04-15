@@ -17,7 +17,7 @@ const Subcatinner = ({ route }) => {
     const [subin, setSubin] = useState([]);
 
     useEffect(() => {
-        fetch("http://192.168.205.193/demo/ecommerce/api_subinner.php?id=" + Root.Id)
+        fetch("http://192.168.158.193/demo/ecommerce/api_subinner.php?id=" + Root.Id)
             .then(res => res.json())
             .then(
                 (result) => {
@@ -54,7 +54,7 @@ const Subcatinner = ({ route }) => {
                             <>
                                 <View style={{ marginTop: 8, flexDirection: "row", width: "100%", height: 210, elevation: 5, backgroundColor: "white", alignItems: "center", justifyContent: "flex-start" }}>
                                     <View style={{ borderRadius: 15, }}>
-                                        <Image source={{ uri: "http://192.168.205.193/demo/ecommerce/Brand%20Image/" + item.image }} style={{ width: 180, height: 135, borderRadius: 15 }} />
+                                        <Image source={{ uri: "http://192.168.158.193/demo/ecommerce/Brand%20Image/" + item.image }} style={{ width: 180, height: 135, borderRadius: 15 }} />
                                     </View>
                                     <View style={{ marginLeft: 10 , width:'50%'}}>
                                         <Text style={styles.brandtxt}>{item.title}</Text>

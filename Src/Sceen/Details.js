@@ -15,7 +15,7 @@ const Details = ({ route,navigation }) => {
 
     const btnSubmit = ({route,navigation}) => {
         
-        fetch("http://192.168.205.193/demo/ecommerce/details.php", {
+        fetch("http://192.168.29.193/demo/ecommerce/details.php", {
             method: 'POST',
             headers: {
                 Accept: 'application/json',
@@ -56,27 +56,27 @@ const Details = ({ route,navigation }) => {
                     <View style={{ alignItems: "center", marginTop: 5 }}>
                         <View style={{ flexDirection: "row", alignItems: "center", borderBottomWidth: 0.5, width: "85%", marginTop: 15 }}>
                             <Image source={require("../../Image/user.png")} style={{ height: 25, width: 25 }} />
-                            <TextInput style={styles.txtinput} placeholder="Name" onChangeText={setName} value={name}></TextInput>
+                            <TextInput  placeholder="Name" onChangeText={setName} value={name}></TextInput>
                         </View>
                         <View style={{ flexDirection: "row", alignItems: "center", borderBottomWidth: 0.5, width: "85%", marginTop: 15 }}>
                             <Image source={require("../../Image/gmail.png")} style={{ height: 25, width: 25 }} />
-                            <TextInput style={styles.txtinput} placeholder="Email id " onChangeText={setEmail} value={email}></TextInput>
+                            <TextInput  placeholder="Email id " onChangeText={setEmail} value={email}></TextInput>
                         </View>
                         <View style={{ flexDirection: "row", alignItems: "center", borderBottomWidth: 0.5, width: "85%", marginTop: 15 }}>
                             <Image source={require("../../Image/address.png")} style={{ height: 25, width: 25 }} />
-                            <TextInput style={styles.txtinput} placeholder="Address" onChangeText={setAddress} value={address}></TextInput>
+                            <TextInput  placeholder="Address" onChangeText={setAddress} value={address}></TextInput>
                         </View>
                         <View style={{ flexDirection: "row", alignItems: "center", borderBottomWidth: 0.5, width: "85%", marginTop: 15 }}>
                             <Image source={require("../../Image/city.png")} style={{ height: 25, width: 25 }} />
-                            <TextInput style={styles.txtinput} placeholder="City" onChangeText={setCity} value={city} ></TextInput>
+                            <TextInput  placeholder="City" onChangeText={setCity} value={city} ></TextInput>
                         </View>
                         <View style={{ flexDirection: "row", alignItems: "center", borderBottomWidth: 0.5, width: "85%", marginTop: 15 }}>
                             <Image source={require("../../Image/state.png")} style={{ height: 25, width: 25 }} />
-                            <TextInput style={styles.txtinput} placeholder="State" onChangeText={setState} value={state} ></TextInput>
+                            <TextInput  placeholder="State" onChangeText={setState} value={state} ></TextInput>
                         </View>
                         <View style={{ flexDirection: "row", alignItems: "center", borderBottomWidth: 0.5, width: "85%", marginTop: 15 }}>
                             <Image source={require("../../Image/phone.png")} style={{ height: 25, width: 25 }} />
-                            <TextInput style={styles.txtinput} placeholder="Mobile Number" onChangeText={setContact} value={contact} secureTextEntry={true} keyboardType={'phone-pad'} maxLength={10}></TextInput>
+                            <TextInput placeholder="Mobile Number" onChangeText={setContact} value={contact} secureTextEntry={true} keyboardType={'phone-pad'} maxLength={10}></TextInput>
                         </View>
                     </View>
                     {/* <TouchableOpacity onPress={() => btnSubmit()}>

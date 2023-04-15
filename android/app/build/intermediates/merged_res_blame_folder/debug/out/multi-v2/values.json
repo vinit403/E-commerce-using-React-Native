@@ -266,6 +266,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\vinit\\.gradle\\caches\\transforms-3\\229a7a832f6616e0d31125919eacc4df\\transformed\\jetified-checkout-1.6.30\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    },
+                    "to": {
+                        "startLines": "89",
+                        "startColumns": "4",
+                        "startOffsets": "5112",
+                        "endColumns": "38",
+                        "endOffsets": "5146"
+                    }
+                },
+                {
                     "source": "F:\\react_native\\ecommerce\\node_modules\\react-native-splash-screen\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,6,9,12",
@@ -445,23 +462,6 @@
                         "endLines": "8,112,113,114,115,308,309,310,899,2723,2726,2729,5523",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "515,6890,6952,7014,7078,20201,20258,20312,65983,184716,184842,184970,360340"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vinit\\.gradle\\caches\\transforms-3\\42717ff90ed125571d6461903151eaf4\\transformed\\jetified-checkout-1.6.26\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "38",
-                        "endOffsets": "89"
-                    },
-                    "to": {
-                        "startLines": "89",
-                        "startColumns": "4",
-                        "startOffsets": "5112",
-                        "endColumns": "38",
-                        "endOffsets": "5146"
                     }
                 },
                 {

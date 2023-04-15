@@ -6,9 +6,9 @@ const Subcategory = ({ route, navigation }) => {
   console.log(root.catid)
 
   const [user, setUser] = useState([]);
-
+  
   useEffect(() => {
-    fetch('http://192.168.205.193/demo/ecommerce/api_subcat.php?cat_id=' + root.catid)
+    fetch('http://192.168.158.193/demo/ecommerce/api_subcat.php?cat_id=' + root.catid)
       .then(res => res.json())
       .then(
         (result) => {
@@ -34,7 +34,7 @@ const Subcategory = ({ route, navigation }) => {
               <View style={{ flex: 1, marginTop: 8, flexDirection: "row", height: 150, width: "100%", backgroundColor: "white", elevation: 5, }}>
                 <TouchableOpacity style={{ alignSelf: 'center', flexDirection: "row" }} onPress={()=>navigation.navigate("Subcatinner",{Id : item.sub_id})}>
                   <View style={{ justifyContent: "center", borderRadius: 15, marginLeft: 5 }}>
-                    <Image source={{ uri: "http://192.168.205.193/demo/ecommerce/Brand%20Image/" + item.sub_img }} style={{ width: 140, height: 125, borderRadius: 15 }} />
+                    <Image source={{ uri: "http://192.168.158.193/demo/ecommerce/Brand%20Image/" + item.sub_img }} style={{ width: 140, height: 125, borderRadius: 15 }} />
                   </View>
                   <Text style={styles.cattxt}>{item.subcat_name}</Text>
                 </TouchableOpacity>

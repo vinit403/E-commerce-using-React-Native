@@ -38,6 +38,9 @@
 
             <data android:mimeType="*/*" />
         </intent>
+        <intent>
+            <action android:name="rzp.device_token.share" />
+        </intent>
     </queries> <!-- Include required permissions for Google Maps API to run. -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 

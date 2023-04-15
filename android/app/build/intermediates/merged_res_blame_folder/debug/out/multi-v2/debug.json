@@ -3209,6 +3209,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\vinit\\.gradle\\caches\\transforms-3\\229a7a832f6616e0d31125919eacc4df\\transformed\\jetified-checkout-1.6.30\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    },
+                    "to": {
+                        "startLines": "89",
+                        "startColumns": "4",
+                        "startOffsets": "5112",
+                        "endColumns": "38",
+                        "endOffsets": "5146"
+                    }
+                },
+                {
                     "source": "F:\\react_native\\ecommerce\\node_modules\\react-native-splash-screen\\android\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,6,9,12",
@@ -3388,23 +3405,6 @@
                         "endLines": "8,112,113,114,115,308,309,310,899,2723,2726,2729,5523",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "515,6890,6952,7014,7078,20201,20258,20312,65983,184716,184842,184970,360340"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vinit\\.gradle\\caches\\transforms-3\\42717ff90ed125571d6461903151eaf4\\transformed\\jetified-checkout-1.6.26\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "38",
-                        "endOffsets": "89"
-                    },
-                    "to": {
-                        "startLines": "89",
-                        "startColumns": "4",
-                        "startOffsets": "5112",
-                        "endColumns": "38",
-                        "endOffsets": "5146"
                     }
                 },
                 {
@@ -7024,25 +7024,6 @@
             "outputFile": "F:\\react_native\\ecommerce\\android\\app\\build\\intermediates\\merged_res\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\vinit\\.gradle\\caches\\transforms-3\\42717ff90ed125571d6461903151eaf4\\transformed\\jetified-checkout-1.6.26\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,93",
-                        "endLines": "2,13",
-                        "endColumns": "37,12",
-                        "endOffsets": "88,745"
-                    },
-                    "to": {
-                        "startLines": "2,23",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,1389",
-                        "endLines": "2,33",
-                        "endColumns": "37,12",
-                        "endOffsets": "88,2041"
-                    }
-                },
-                {
                     "source": "C:\\Users\\vinit\\.gradle\\caches\\transforms-3\\d66390e9f57cd03f4fe478c67b878d95\\transformed\\material-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
@@ -7059,6 +7040,25 @@
                         "endLines": "11,12,13,14,15,16,18,19,20,21,22,37",
                         "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
                         "endOffsets": "704,774,845,917,975,1033,1142,1206,1262,1321,1384,2213"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinit\\.gradle\\caches\\transforms-3\\229a7a832f6616e0d31125919eacc4df\\transformed\\jetified-checkout-1.6.30\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,13",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,745"
+                    },
+                    "to": {
+                        "startLines": "2,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1389",
+                        "endLines": "2,33",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,2041"
                     }
                 },
                 {

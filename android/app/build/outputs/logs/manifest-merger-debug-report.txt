@@ -48,7 +48,7 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vinit\.gradle\ca
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vinit\.gradle\caches\transforms-3\4bcb328cc87eddca94a5c46cf6c2a72d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\vinit\.gradle\caches\transforms-3\5a2cf8ce62a9ce1e802f6789ca43c9fa\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\vinit\.gradle\caches\transforms-3\571e0c6461a9115561af51151550d677\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:2:1-65:12
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:2:1-66:12
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\322ce42e45936842a1bf5b0deae3777c\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\vinit\.gradle\caches\transforms-3\f9c3978e65ab3a8139b0bdd25527f0a4\transformed\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vinit\.gradle\caches\transforms-3\d17fedd83ff85f189072687d5103034d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -111,8 +111,8 @@ MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\vinit\.gradle\caches
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\vinit\.gradle\caches\transforms-3\0fc98b11c4641f005f09c95af9e0c4a7\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:15:5-67
 MERGED from [:lottie-react-native] F:\react_native\ecommerce\node_modules\lottie-react-native\src\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
 MERGED from [:lottie-react-native] F:\react_native\ecommerce\node_modules\lottie-react-native\src\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:10:5-67
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:10:5-67
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:8:5-67
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:8:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\994235190abd838c656f4a4e15ed10e3\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\994235190abd838c656f4a4e15ed10e3\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
 	android:name
@@ -131,8 +131,8 @@ MERGED from [com.airbnb.android:lottie:5.1.1] C:\Users\vinit\.gradle\caches\tran
 MERGED from [com.airbnb.android:lottie:5.1.1] C:\Users\vinit\.gradle\caches\transforms-3\e69b8a70578f578a76b1d42d42959808\transformed\jetified-lottie-5.1.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\vinit\.gradle\caches\transforms-3\d66390e9f57cd03f4fe478c67b878d95\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\vinit\.gradle\caches\transforms-3\d66390e9f57cd03f4fe478c67b878d95\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:40:5-63:19
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:40:5-63:19
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:41:5-64:19
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:41:5-64:19
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\322ce42e45936842a1bf5b0deae3777c\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\322ce42e45936842a1bf5b0deae3777c\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\ebac784f865a3f6929f7bbc841741468\transformed\jetified-play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
@@ -295,8 +295,8 @@ MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\vinit\.gradle\caches\transfo
 MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\vinit\.gradle\caches\transforms-3\5a2cf8ce62a9ce1e802f6789ca43c9fa\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\vinit\.gradle\caches\transforms-3\571e0c6461a9115561af51151550d677\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\vinit\.gradle\caches\transforms-3\571e0c6461a9115561af51151550d677\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:6:5-8:41
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:6:5-8:41
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:6:5-44
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:6:5-44
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\322ce42e45936842a1bf5b0deae3777c\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\322ce42e45936842a1bf5b0deae3777c\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\vinit\.gradle\caches\transforms-3\f9c3978e65ab3a8139b0bdd25527f0a4\transformed\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:20:5-44
@@ -393,66 +393,68 @@ ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\vinit\.gradle\caches\
 		ADDED from [com.facebook.flipper:flipper:0.125.0] C:\Users\vinit\.gradle\caches\transforms-3\0fc98b11c4641f005f09c95af9e0c4a7\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
 activity#com.razorpay.CheckoutActivity
 ADDED from [:react-native-razorpay] F:\react_native\ecommerce\node_modules\react-native-razorpay\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:86
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:50:9-58:20
-MERGED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:50:9-58:20
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:51:9-59:20
+MERGED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:51:9-59:20
 	android:exported
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:53:13-36
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:54:13-36
 	android:configChanges
 		ADDED from [:react-native-razorpay] F:\react_native\ecommerce\node_modules\react-native-razorpay\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-83
 	android:theme
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:54:13-49
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:55:13-49
 	android:name
 		ADDED from [:react-native-razorpay] F:\react_native\ecommerce\node_modules\react-native-razorpay\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-57
 queries
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:12:5-38:15
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:10:5-39:15
 intent#action:name:android.intent.action.VIEW+data:mimeType:*/*+data:scheme:*
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:13:9-19:18
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:11:9-17:18
 action#android.intent.action.VIEW
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:14:13-65
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:12:13-65
 	android:name
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:14:21-62
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:12:21-62
 data
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:16:13-18:38
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:14:13-16:38
 	android:scheme
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:18:17-35
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:16:17-35
 	android:mimeType
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:17:17-39
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:15:17-39
 intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:host:pay+data:mimeType:*/*+data:scheme:upi
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:20:9-29:18
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:18:9-27:18
 category#android.intent.category.BROWSABLE
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:23:13-74
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:21:13-74
 	android:name
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:23:23-71
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:21:23-71
 intent#action:name:android.intent.action.MAIN
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:30:9-32:18
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:28:9-30:18
 intent#action:name:android.intent.action.SEND+data:mimeType:*/*
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:33:9-37:18
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:31:9-35:18
 action#android.intent.action.SEND
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:34:13-65
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:32:13-65
 	android:name
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:34:21-62
-receiver#com.razorpay.RzpTokenReceiver
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:41:9-48:20
-	android:exported
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:43:13-36
-	tools:ignore
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:44:13-44
-	android:name
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:42:13-57
-intent-filter#action:name:rzp.device_token.share
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:45:13-47:29
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:32:21-62
+intent#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:36:9-38:18
 action#rzp.device_token.share
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:46:17-65
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:37:13-61
 	android:name
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:46:25-62
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:37:21-58
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:42:9-49:20
+	android:exported
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:44:13-36
+	tools:ignore
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:43:13-57
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:46:13-48:29
 intent-filter#action:name:android.intent.action.MAIN
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:55:13-57:29
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:56:13-58:29
 meta-data#com.razorpay.plugin.googlepay_all
-ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:60:9-62:58
+ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:61:9-63:58
 	android:value
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:62:13-55
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:63:13-55
 	android:name
-		ADDED from [com.razorpay:checkout:1.6.27] C:\Users\vinit\.gradle\caches\transforms-3\22f3fd8c8e5fbc9b4edc702d17df6010\transformed\jetified-checkout-1.6.27\AndroidManifest.xml:61:13-61
+		ADDED from [com.razorpay:checkout:1.6.30] C:\Users\vinit\.gradle\caches\transforms-3\229a7a832f6616e0d31125919eacc4df\transformed\jetified-checkout-1.6.30\AndroidManifest.xml:62:13-61
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\vinit\.gradle\caches\transforms-3\322ce42e45936842a1bf5b0deae3777c\transformed\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents

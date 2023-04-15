@@ -17,7 +17,7 @@ const Product = ({ route, navigation }) => {
     }
 
     useEffect(() => {
-        fetch("http://192.168.205.193/demo/ecommerce/api_product.php?id=" + Root.Id)
+        fetch("http://192.168.158.193/demo/ecommerce/api_product.php?id=" + Root.Id)
             .then(res => res.json())
             .then(
                 (resu) => {
@@ -46,7 +46,7 @@ const Product = ({ route, navigation }) => {
                                 <TouchableOpacity onPress={()=>navigation.navigate("Subcatinner",{Id : item.sub_id})}>
                                     <View style={{ marginTop: 5, flexDirection: "row", width: "100%", height: 210, elevation: 5, backgroundColor: "white", alignItems: "center", justifyContent: "flex-start" }}>
                                         <View style={{ borderRadius: 15, }}>
-                                            <Image source={{ uri: "http://192.168.205.193/demo/ecommerce/Brand%20Image/" + item.image }} style={{ width: 180, height: 135, borderRadius: 15 }} />
+                                            <Image source={{ uri: "http://192.168.158.193/demo/ecommerce/Brand%20Image/" + item.image }} style={{ width: 180, height: 135, borderRadius: 15 }} />
                                         </View>
                                         <View style={{ width: "100%", flex: 1 }}>
                                             <View style={{ right:6, flex: 1, alignItems:'flex-end', marginTop: 5 }}>

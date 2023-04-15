@@ -15,8 +15,8 @@ const sliderimage = [
 
 const Home = ({ route,navigation }) => {
 
-  const root = route.params
-  console.log(root.Email);
+  // const root = route.params
+  // console.log(root.Email);
 
   
   const dispatch = useDispatch()
@@ -33,7 +33,7 @@ const Home = ({ route,navigation }) => {
 
 
   useEffect(() => {
-    fetch("http://192.168.205.193/demo/ecommerce/api_cat.php")
+    fetch("http://192.168.158.193/demo/ecommerce/api_cat.php")
       .then(res => res.json())
       .then(
         (result) => {
@@ -47,7 +47,7 @@ const Home = ({ route,navigation }) => {
   }, [])
 
   useEffect(() => {
-    fetch("http://192.168.205.193/demo/ecommerce/api_brand.php")
+    fetch("http://192.168.158.193/demo/ecommerce/api_brand.php")
       .then(res => res.json())
       .then(
         (result) => {
@@ -132,7 +132,7 @@ const Home = ({ route,navigation }) => {
                 <View style={{ margin: 8 }}>
                   <View style={{ width: 150, height: 150, elevation: 5, backgroundColor: "#FFFFF5", borderRadius: 15, justifyContent: 'center' }}>
                     <TouchableOpacity style={{ alignItems: 'center' }} onPress={() => navigation.navigate("subcategory", { catid: item.cat_id })}>
-                      <Image source={{ uri: "http://192.168.205.193/demo/ecommerce/Brand%20Image/" + item.cat_img }} style={{ width: 150, height: 125, borderRadius: 15 }} />
+                      <Image source={{ uri: "http://192.168.158.193/demo/ecommerce/Brand%20Image/" + item.cat_img }} style={{ width: 150, height: 125, borderRadius: 15 }} />
                       <Text style={styles.cattxt}>{item.cat_name}</Text>
                     </TouchableOpacity>
                   </View>
@@ -155,7 +155,7 @@ const Home = ({ route,navigation }) => {
                 <View style={{ margin: 8, flexWrap: "wrap" }}>
                   <View style={{ width: 165, height: 190, elevation: 5, backgroundColor: "black", borderRadius: 15, justifyContent: 'center', alignItems: 'center' }}>
                     <TouchableOpacity style={{ alignItems: 'center' }} onPress={()=>navigation.navigate("Product",{Id : item.brandid})}>
-                      <Image source={{ uri: "http://192.168.205.193/demo/ecommerce/Brand%20Image/" + item.brand_img }} style={{ width: 165, height: 165, borderRadius: 15 }} />
+                      <Image source={{ uri: "http://192.168.158.193/demo/ecommerce/Brand%20Image/" + item.brand_img }} style={{ width: 165, height: 165, borderRadius: 15 }} />
                       <Text style={styles.brandtxt}>{item.brand}</Text>
                     </TouchableOpacity>
                   </View>

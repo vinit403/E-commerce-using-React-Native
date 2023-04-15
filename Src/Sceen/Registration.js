@@ -9,7 +9,7 @@ const Registration = ({ navigation }) => {
 
     const btnSubmit = () => {
        
-        fetch("http://192.168.205.193/demo/ecommerce/register.php", {
+        fetch("http://192.168.158.193/demo/ecommerce/register.php", {
             method: 'POST',
             headers: {
                 Accept: 'application/json',
